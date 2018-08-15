@@ -1,0 +1,160 @@
+Global Data Ownership Chain 
+I．Brief Introduction to GDOC 
+GDOC(Global Data Ownership Chain) is decentralized blockchain based on Delegated Proof of Stake ( DPOS) and Consensus mechanism with its unique DCMM（Dual Contribution-Mining Model）technology, which makes GDOC not only to motivate “producers”, but motivate “consumers”, and therefore results in more scalable and practical applications in the blockchain. Dual Contribution means that owners of data asset（including personal data/pictures /cartoons /P2P copyrights etc）obtain mining income and data asset extended income (for instance, via lease) through their contributing data assets；and consumers of data asset（Dapp developers）also obtain mining income through renting or using data asset. The core task of DCMM is to overcome the three predicaments in data asset trade. 
+
+	Firstly, it gets rid of problems with unclear or embezzled rights of the ownership and income via data asset validation and on-chain technology. DCMM has implemented “contributing data is equivalent to mining”，resulting in validation of data ownership, protection of privacy and income model, all having been synchronously achieved which is not available in traditional Internet. 
+
+	Secondly，it considerably reduces the threshold of Bigdata application and development on Internet-based. Traditional Bigdata application (including social media/P2p Financial Internet platform/sharing services etc) is in the period of “Red Sea” competition, and barbaric investment and “wasteful innovation”, increase the innovation threshed of Data application, and also reduce resource usage efficiency. GDOC not only offers data asset resources for Bigdata application developers, but also offers test environment and technology support for the application, and substantially shorten the verification cycle of Dapp business model，thereby considerably reduce investment in Dapp software and hardware as well. In a word, Dapp developers are able to implement Dapp application and development with “one person plus one computer” so as to facilitate blockchain-based application to touch down on a large scale.
+
+	Thirdly, DCMM enables Dapp developers to receive income by hiring or consuming data assets through “contributing is mining" model, sustainably motivating its application and development. 
+
+DCMM transaction model and DPOS consensus mechanism work on cointegration, which makes a variety of InternetApp to achieve higher effectiveness, lower cost and decentralization, with help of blockchain underlying protocol and open source book technology. For instance, Mr Weixin Chen is cooperating with Mr Jun Yang, Co-founder of Meituan Union, by investing and developing “Taxi Blockchain” project, aiming to decentralize to achieve low cost and high efficiency in Internet-based taxi operation.   
+
+The following is the circulation model of GDOT Token.
+STEP1: Token Mint: 
+1.	GDOC Token POOL->[GDOT mint by Mining]->DO+DS/DAD
+STEP2: Token circle as a payment:
+2.	DO->[GDOT paid for DAD’s service]->DAD
+STEP3: Token circle/Deflation Model
+3.	DS/DAD->[GDOT frozen as collateral]->GDOT Token POOL
+4.	DAD->[GDOT frozen as an ICO money]->GDOT Token POOL
+
+In the GDOT circulation mechanism, DAD as a developer of the application rents data assets, under approval by GDOC, to gain usage of data asset by taking GDOT as collateral.
+Furthermore, DAD issues ICO to raise fund as it is developing Dapp, and over 30% of its total fundraising is used as GDOT token.
+
+II. Goal and Significance of GDOC
+GDOC is to create ecosystem that economically benefits all participants by introducing blockchain-based Distributed Ledger Technology, DCMM and tokenized data assets in order to make “raw” data asset to appreciate in value in tens of millions of times, and ultimately to achieve data asset producers and consumers to autonomously cycle in scalable growth. Not only that, GDOC will facilitate Internet application to be diversified, low cost and high efficient, fair and trusted in the following grounds.
+
+	Firstly, most of Internet App underlying on GDOC’s big-data asset exchange and transaction platform, reduce the development & operation costs so as to make global Internet-based application to be more diversified with higher efficiency.
+
+	Secondly, GDOC is a decentralized autonomous organization, and it enables its own ecosystem to gain exponential growth relying upon Token and DCMM incentive mechanism with little cost and operational expenditure.
+
+	Thirdly and finally, InternetApp may use Token to complete payment, and this will dramatically reduce the price of consumers using App, thereby will be beneficial to all participants in GDOC.
+
+Consequently, the core value of GDOC is not only to create a data asset trade & exchange system based on blockchain’s DPOS consensus mechanism and DCMM contribution transaction model, but more importantly, is to configure an innovative application pattern and business model surpassing the current Internet-based business model. 
+
+In the very near future, GDOC will incubate thousands of hundreds of Internet-based Dapps, and will enable Internet-based application to be much higher efficient/lower costly, completely surpassing the present monopolistic and centralized large scale Internet organizations, including social media such as Facebook, Tencent etc and e-commerce platforms such as Alibaba, Amazon and Jindong.
+ 
+III. The Team
+Mr Musk Shing and Dr Alexander Wang etc, as professional experts in IT and Bigdata, have established GDOC Foundation to lead and operate GDOC project in technological research and business development.
+GDOC core team consists of elites from China, USA, Japan and Southeast Asia. The Founder, Mr Musk Shing has over 10 years of experiences in IT and Internet; a number of core engineers comes from famous universities and Global 500, such as IBM and Huawei. For instance, Dr YG SUN (Algorithm & Security Expert) during the same period of Satoshi Nakamot (the Founder of Bitcoin), studied and developed Ellipse encryption Algorithm and published his PhD Thesis on this topic（http://i.cnki.net/HD/thesis/detail/cdfd/2009091413.nh. Dr YG SUN is in charge of GDOC consensus mechanism and encryption algorithm both in theoretical and technological innovation. Dr Alexander WANG(Co-Founder and COO) graduated at University of Abertay Dundee, UK, majoring in Artificial Neural Network, and he has created an unique theory and technological innovation in data mining and neural network active learning algorithm(please refer to the paper: https://link.springer.com/article/10.1007/s521-001-8053-6, Neural Computing & Applications, December 2001, Volume 10, Issue 3, pp 253–263）. Dr Alexander WANG is the founder of Shared Cloud-Umbrella Internet-based Project, being of expertise in sharing economy and AI industries.  Mr William Yang(Security Director ) has a rich experience in Internet Security and Technology (he used to be a hacker of White Hat)，responsible for GDOC network security, code verification and smart contract writing and deploying. 
+At the same time，GDOC has a number of senior advisors in Bigdata and AI, including Dr Shi Zhong, data scientist of Google, and Dr Teruaki HAYASH, an expert in Bigdata security and management & Associate Professor of Tokyo University in Japan. They will provide GDOC with theoretical and technological supports.
+In addition, GDOC has won support and recognition from experts and advisors in Blockchain. Dr JiangangWu，the Co-Founder of Fusion and PhD in Financial Engineering，has given unique insights and helps for GDOC technology and application. Mr Chandler Guo is a pioneer and expert in Blockchain, we have benefited from his ideas and his Bitcoin’s value theory deeply influencing blockchain.
+Mr Ken Huang is a registered expert in CISSP, committee member of ACM Practitioner Board in USA and expert member of Blockchain of Chinese Institute of Electronics. He gives us some innovative ideas and advices for GDOC overall technological profile design.
+  Next lists are GDOC’s team and advisor’s introduction.
+3.1 The List of founding team and background:
+Mr Musk SHING	CEO, Founder
+•	10 years IT management experience at Huawei, Oracle
+•	MBA Program, Zhejiang University, China
+•	10多年IT行业背景和华为/ORACLE等多年跨国公司业务运营管理经验
+•	浙江大学MBA
+•	区块链生态经济规划专家、早期区块链项目参与者
+Dr Alexander WANG	COO, Co-Founder	•	Data Mining, DNN, AI Expert
+•	PhD, University of Abertay Dundee, UK.
+•	Founder&CEO of Cloud-Umbrella
+•	数据挖掘/神经网络/人工智能专家
+•	英国阿伯泰.邓迪大学计算机博士
+•	共享云伞“伞伞情”创始人&CEO
+Dr Sheng-Wei WU	Technical Director	•	Educational Technologist, NYU
+•	Blockchain enthusiast
+•	PhD, University of Hofstra, U.S.A.
+•	美国常青藤名校纽约大学教育科技技术专家
+•	区块链极客研究者
+•	美国名校Hofstra大学博士
+Dr YG SUN	Algorithm&Security   Expert	•	PhD, University of Jillin
+•	Sequential cipher expert, Asymmetric cipher and block cipher contributor
+•	Consensus algorithm design for EHR on blockchain
+•	吉林大学计算机博士
+•	序列密码专家，非对称密码和分组密码贡献者
+•	曾开发基于区块链的电子病历系统共识算法
+Mr William YANG	Security Director	•	Founder, Shendun Network (shenduncn.com)
+•	White-hat hacker
+•	System security enthusiast
+•	神盾网络创始人
+•	白帽子黑客
+•	网络系统安全专家，曾协助国安和警方成功破获网络犯罪案件
+Ms Ruby Zou	Community Director, North America	•	CSP Professional, OBC Certificate
+•	MS., Sheridan College, world’s NO1 college in Animation-Design
+•	Member of ARIDO and RESA
+•	5 years community operation on Apps
+•	CSP认证和OBC专业证书
+•	毕业于全球排名第一的Sheridan学院(动画设计)
+•	ARIDO和RESA注册会员
+•	5年以上互联网社区运营经验
+Mr Ashish Bhatia	Mentor of System Layout&Planning	•	Software Engineer, Facebook(WhatsApp Inc.)
+•	Software Engineer, Google Safe Browsing team
+•	Angle Investor in various startsup
+•	Master of Technology, Indian Institute of Technology
+•	Non-degree SCPD student Computer, Science, Stanford University
+•	Facebook软件工程师
+•	Google软件工程师，Google安全浏览器组
+•	天使投资人
+•	毕业于印度IIT学院，曾就读于斯坦福大学SCPD
+Mr Prasenjeet Kashyap	OP. VP, Southeast Asia	•	Country Head in India at Achain Foundation
+•	ICO/IDO operation expert/advisor/speaker
+•	Solid blockchain experience on business model design
+•	Achain印度地区总监
+•	ICO/IDO运营专家/顾问/推广专家
+•	丰富的区块链商业设计经验
+
+The following table is list of advisor team and background information:
+Dr Jiangang WU	
+•	Research Fellow, China Europe International Business School
+•	FRM Holder
+•	PhD, Financial Engineering, Shanghai Univ. of Finance & Econ., China
+•	Co-founder of Fusion
+•	Blockchain expert and KOL
+•	全球顶级金融风险管理FRM注册师
+•	中欧国际工商管理学院研究员
+•	上海大学金融工程博士
+•	Fusion联合创始人
+•	区块链专家、行业意见领袖	CHN
+Mr Chandler GUO	
+•	Co-founder of BitBank, USA
+•	Block chain veteran (aka Er-Bao)
+•	Taiwan/USA
+•	BitBank联合创始人
+•	区块链著名天使投资人，行业意见领袖
+•	区块链行业布道者和推动者	USA
+Dr Kelvin CHENG	•	Senior Research Scientist, Rakuten, Japan
+•	HCI in Mobile App
+•	PhD, University of Sydney, Australia
+•	日本第一电商公司Rakuten高级经济学家
+•	澳洲悉尼大学博士	JPN
+Mr Edward KUO	•	Pioneer batch of BTC Miner, Taiwan
+•	M.S., National Taipei University of Technology
+•	早期比特币矿工，区块链算法和编程专家
+•	台湾台北大学科学硕士	TWN
+Mr S.K. SHI	•	Law firm partner, China
+•	Practicing Attorney
+•	律师事务所创始律师
+•	注册专业律师，擅长金融，合同法和公司法	CHN
+Mr Frank WEN	•	CEO/Founder of Finchain, China
+•	Block chain pioneer
+•	10 years experience in Finance & IT
+•	Finchain创始人
+•	区块链行业先锋
+•	10多年IT和金融行业背景	CHN
+Mr Kevin WONG	•	Founder/CEO of Teyang Network, China
+•	Medical IT&Service expert
+•	MBA, Zhejiang Univ.
+•	特杨网络创始人和CEO
+•	互联网医疗信息化领域专家
+•	浙江大学MBA	CHN
+Dr Shi ZHONG	•	Data Scientist, Google, USA
+•	Chief Scientist, Adometry (acq. By Google)
+•	A.I., Model-based Learning
+•	PhD, University of Texas, U.S.A.
+•	美国Google公司数据科学家
+•	美国Adometry公司首席科学家
+•	美国常青藤名校德州大学博士	USA
+Dr Teruaki HAYASHI	•	Asst. Professor, University of Tokyo
+•	Expert in Data Jackets and Management of Data
+•	PhD, University of Tokyo
+•	日本东京大学副教授
+•	大数据安全和管理专家
+•	东京大学博士	JPN
+Ms Zoe CHUANG	•	Financial Controller of Bestcare, U.S.A.
+•	MBA, University of Ottawa, Canada
+•	美国Bestcare财务总监
+•	加拿大Ottawa大学MBA	USA
